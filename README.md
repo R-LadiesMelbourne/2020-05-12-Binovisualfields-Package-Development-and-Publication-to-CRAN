@@ -1,1 +1,5 @@
-# 2020-05-12-Binovisualfields-Package-Development-and-Publication-to-CRAN
+Binovisualfields Package: Development and Publication to CRAN
+================
+12/05/2020
+
+
